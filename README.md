@@ -43,6 +43,6 @@ docker-compose down
 ```
 
 ## Additional Notes
-- Ensure that the required ports (8080, 8088) are not in use before starting the application.
+- Ensure that the required ports (9191, 8088) are not in use before starting the application.
 - For more information on Temporal, visit the [official documentation](https://docs.temporal.io/).
 ```
